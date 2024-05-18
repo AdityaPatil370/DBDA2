@@ -1,0 +1,6 @@
+this is project info file (created in local directory)
+-u  root
+-p root
+
+Something Important
+
